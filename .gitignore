@@ -1,0 +1,8 @@
+# Archivos de Jupyter
+.ipynb_checkpoints/
+
+# Entorno virtual
+.venv/
+
+# Carpeta de apuntes
+Apuntes/
